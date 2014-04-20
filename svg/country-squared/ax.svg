@@ -1,27 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="Flag of Åland" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata21">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs19">
-  <clipPath id="clipPath3032" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3034" fill-opacity="0.67" height="850" width="850" y="-.0000016602" x="166.02"/>
-  </clipPath>
- </defs>
- <g id="flag" clip-path="url(#clipPath3032)" transform="matrix(.60235 0 0 .60235 -100 0.000001)">
-  <rect id="rect3" height="850" width="1300" y="0" x="0" fill="#0053a5"/>
-  <g id="g5" fill="#ffce00">
-   <rect id="rect7" width="250" y="0" x="400" height="850"/>
-   <rect id="rect9" y="300" width="1300" x="0" height="250"/>
-  </g>
-  <g id="g11" fill="#d21034">
-   <rect id="rect13" width="100" y="0" x="475" height="850"/>
-   <rect id="rect15" y="375" width="1300" x="0" height="100"/>
-  </g>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="Flag_of_Åland" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<rect x="291.528" y="331.293" fill="#0053A5" width="220.472" height="180.704"/>
+	<rect x="0.002" fill="#0053A5" width="140.938" height="180.705"/>
+	<rect x="291.528" fill="#0053A5" width="220.472" height="180.705"/>
+	<rect x="0.002" y="331.293" fill="#0053A5" width="140.938" height="180.704"/>
+	<rect x="246.351" y="331.293" fill="#FFCE00" width="45.177" height="180.704"/>
+	<rect x="246.351" fill="#FFCE00" width="45.177" height="180.705"/>
+	<rect x="140.94" fill="#FFCE00" width="45.177" height="180.705"/>
+	<rect x="140.94" y="331.293" fill="#FFCE00" width="45.177" height="180.704"/>
+	<polygon fill="#FFCE00" points="186.116,331.293 186.116,286.116 0.002,286.116 0.002,331.293 140.94,331.293 	"/>
+	<polygon fill="#FFCE00" points="186.116,225.881 186.116,180.705 140.94,180.705 0.002,180.705 0.002,225.881 	"/>
+	<polygon fill="#FFCE00" points="246.351,286.116 246.351,331.293 291.528,331.293 511.999,331.293 511.999,286.116 	"/>
+	<polygon fill="#FFCE00" points="246.351,180.705 246.351,225.881 511.999,225.881 511.999,180.705 291.528,180.705 	"/>
+	<polygon fill="#D21034" points="186.116,225.881 246.351,225.881 246.351,180.705 246.351,0 186.116,0 186.116,180.705 	"/>
+	<polygon fill="#D21034" points="246.351,286.116 186.116,286.116 186.116,331.293 186.116,511.997 246.351,511.997 
+		246.351,331.293 	"/>
+	<polygon fill="#D21034" points="186.116,286.116 246.351,286.116 511.999,286.116 511.999,225.881 246.351,225.881 
+		186.116,225.881 0.002,225.881 0.002,286.116 	"/>
+</g>
 </svg>

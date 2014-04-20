@@ -1,55 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<!-- /Creative Commons Public Domain -->
-<!--
-<rdf:RDF xmlns="http://web.resource.org/cc/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<Work rdf:about="">
-    <dc:title>New Zealand, Australia, United Kingdom, United States, 
-Bosnia and Herzegovina, Azerbaijan, Armenia, Bahamas, Belgium, Benin, 
-Bulgaria, Estonia, Finland, Gabon, Gambia, Germany, Greece, Greenland, 
-Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
-    <dc:rights><Agent>
-       <dc:title>Daniel McRae</dc:title>
-    </Agent></dc:rights>
-    <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
-</Work>
-
-<License rdf:about="http://web.resource.org/cc/PublicDomain">
-    <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-    <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-    <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-</License>
-</rdf:RDF>
--->
-<svg id="svg609" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" viewBox="0 0 512 512" width="512" version="1.0" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3231">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs611">
-  <clipPath id="clipPath5084" clipPathUnits="userSpaceOnUse">
-   <rect id="rect5086" fill-opacity="0.67" height="512" width="512" y="0" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath5084)">
-  <rect id="rect614" height="512" width="512" y=".000015259" x="0" fill="#009"/>
-  <path id="path615" d="m77 0.0064678 436.91 436.91v-436.91h-436.91z" fill="#fc0"/>
-  <g id="g629" fill="#fff" transform="matrix(.43691 0 0 .43691 -93.246 54.433)">
-   <polygon id="polygon621" points="304.67 -43.357 326 -109 326 -109 347.33 -43.357 416.35 -43.357 360.51 -2.7868 381.84 62.857 326 22.287 270.16 62.857 291.49 -2.7868 235.65 -43.357"/>
-   <polygon id="polygon622" transform="translate(125,125)" points="304.67 -43.357 326 -109 326 -109 347.33 -43.357 416.35 -43.357 360.51 -2.7868 381.84 62.857 326 22.287 270.16 62.857 291.49 -2.7868 235.65 -43.357"/>
-   <polygon id="polygon616" transform="translate(250,250)" points="304.67 -43.357 326 -109 326 -109 347.33 -43.357 416.35 -43.357 360.51 -2.7868 381.84 62.857 326 22.287 270.16 62.857 291.49 -2.7868 235.65 -43.357"/>
-   <polygon id="polygon623" transform="translate(375,375)" points="304.67 -43.357 326 -109 326 -109 347.33 -43.357 416.35 -43.357 360.51 -2.7868 381.84 62.857 326 22.287 270.16 62.857 291.49 -2.7868 235.65 -43.357"/>
-   <polygon id="polygon624" transform="translate(500,500)" points="304.67 -43.357 326 -109 326 -109 347.33 -43.357 416.35 -43.357 360.51 -2.7868 381.84 62.857 326 22.287 270.16 62.857 291.49 -2.7868 235.65 -43.357"/>
-   <polygon id="polygon625" transform="translate(625,625)" points="304.67 -43.357 326 -109 326 -109 347.33 -43.357 416.35 -43.357 360.51 -2.7868 381.84 62.857 326 22.287 270.16 62.857 291.49 -2.7868 235.65 -43.357"/>
-   <polygon id="polygon626" transform="translate(750,750)" points="304.67 -43.357 326 -109 326 -109 347.33 -43.357 416.35 -43.357 360.51 -2.7868 381.84 62.857 326 22.287 270.16 62.857 291.49 -2.7868 235.65 -43.357"/>
-   <polygon id="polygon627" transform="translate(875,875)" points="304.67 -43.357 326 -109 326 -109 347.33 -43.357 416.35 -43.357 360.51 -2.7868 381.84 62.857 326 22.287 270.16 62.857 291.49 -2.7868 235.65 -43.357"/>
-   <polygon id="polygon628" transform="translate(1e3 1e3)" points="304.67 -43.357 326 -109 326 -109 347.33 -43.357 416.35 -43.357 360.51 -2.7868 381.84 62.857 326 22.287 270.16 62.857 291.49 -2.7868 235.65 -43.357"/>
-  </g>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg609" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<polygon fill="#000099" points="471.067,512 501.126,512 486.096,501.08 	"/>
+	<path fill="#000099" d="M446.621,472.399h30.156l9.318-28.68l9.319,28.68H512v-37.393l-435-435h435V0H0v512h463.91l7.108-21.875
+		L446.621,472.399z M24.789,81.896l9.319-28.681L9.712,35.49h30.155l9.319-28.68l9.319,28.68h30.155L64.265,53.215l9.318,28.681
+		L49.187,64.17L24.789,81.896z M79.404,136.51l9.319-28.681L64.325,90.104h30.155l9.319-28.68l9.319,28.68h30.156l-24.397,17.726
+		l9.319,28.681L103.8,118.784L79.404,136.51z M134.017,191.124l9.319-28.681l-24.396-17.726h30.155l9.319-28.68l9.319,28.68h30.155
+		l-24.397,17.726l9.319,28.681l-24.396-17.726L134.017,191.124z M188.631,245.737l9.319-28.681l-24.397-17.726h30.155l9.319-28.68
+		l9.319,28.68h30.156l-24.397,17.726l9.319,28.681l-24.397-17.726L188.631,245.737z M243.244,300.351l9.319-28.681l-24.396-17.725
+		h30.155l9.319-28.68l9.319,28.68h30.155l-24.397,17.725l9.319,28.681l-24.396-17.726L243.244,300.351z M297.859,354.965
+		l9.318-28.681l-24.396-17.726h30.155l9.319-28.68l9.319,28.68h30.155l-24.396,17.726l9.319,28.681l-24.397-17.726L297.859,354.965z
+		 M352.472,409.578l9.319-28.68l-24.397-17.727h30.156l9.319-28.68l9.318,28.68h30.156l-24.397,17.727l9.319,28.68l-24.396-17.725
+		L352.472,409.578z M407.085,464.192l9.319-28.681l-24.396-17.726h30.155l9.319-28.681l9.319,28.681h30.155l-24.396,17.726
+		l9.319,28.681l-24.397-17.726L407.085,464.192z"/>
+	<polygon fill="#000099" points="501.174,490.125 508.282,512 512,512 512,482.26 	"/>
+	<polygon fill="#FFCC00" points="512,435.007 512,0.006 77,0.006 	"/>
+	<polygon fill="#FFFFFF" points="64.265,53.215 88.661,35.49 58.506,35.49 49.187,6.81 39.867,35.49 9.712,35.49 34.109,53.215 
+		24.789,81.896 49.187,64.17 73.583,81.896 	"/>
+	<polygon fill="#FFFFFF" points="118.878,107.829 143.276,90.104 113.119,90.104 103.8,61.423 94.481,90.104 64.325,90.104 
+		88.723,107.829 79.404,136.51 103.8,118.784 128.198,136.51 	"/>
+	<polygon fill="#FFFFFF" points="173.491,162.443 197.889,144.717 167.734,144.717 158.414,116.037 149.095,144.717 118.94,144.717 
+		143.336,162.443 134.017,191.124 158.414,173.398 182.811,191.124 	"/>
+	<polygon fill="#FFFFFF" points="228.106,217.057 252.503,199.331 222.347,199.331 213.028,170.651 203.708,199.331 
+		173.553,199.331 197.95,217.057 188.631,245.737 213.028,228.012 237.425,245.737 	"/>
+	<polygon fill="#FFFFFF" points="282.719,271.67 307.116,253.945 276.961,253.945 267.642,225.265 258.323,253.945 228.167,253.945 
+		252.564,271.67 243.244,300.351 267.642,282.625 292.038,300.351 	"/>
+	<polygon fill="#FFFFFF" points="337.333,326.284 361.73,308.559 331.574,308.559 322.255,279.879 312.936,308.559 282.781,308.559 
+		307.177,326.284 297.859,354.965 322.255,337.239 346.653,354.965 	"/>
+	<polygon fill="#FFFFFF" points="391.947,380.898 416.344,363.172 386.188,363.172 376.869,334.492 367.55,363.172 337.394,363.172 
+		361.791,380.898 352.472,409.578 376.869,391.854 401.266,409.578 	"/>
+	<polygon fill="#FFFFFF" points="446.561,435.512 470.957,417.786 440.802,417.786 431.483,389.105 422.163,417.786 
+		392.008,417.786 416.405,435.512 407.085,464.192 431.483,446.467 455.88,464.192 	"/>
+	<polygon fill="#FFFFFF" points="512,482.26 512,472.399 495.415,472.399 486.096,443.72 476.778,472.399 446.621,472.399 
+		471.019,490.125 463.91,512 471.067,512 486.096,501.08 501.126,512 508.282,512 501.174,490.125 	"/>
+</g>
 </svg>

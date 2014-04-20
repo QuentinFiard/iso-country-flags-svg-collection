@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata14">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs12">
-  <clipPath id="clipPath3008" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3010" height="600" width="600" y="-88" x="0" fill="#fff"/>
-  </clipPath>
- </defs>
- <g id="flag" clip-path="url(#clipPath3008)" transform="matrix(.85333 0 0 .85333 0 75.093)">
-  <rect id="rect4" height="600" width="800" y="-88" x="0" fill="#007fff"/>
-  <path id="path6" d="m36 32h84l26-84 26 84h84l-68 52 26 84-68-52-68 52 26-84-68-52zm714-120-750 450v150h50l750-450v-150h-50" fill="#f7d618"/>
-  <path id="path8" d="m800-88-800 480v120l800-480v-120" fill="#ce1021"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<polygon fill="#007FFF" points="42.666,511.998 511.997,511.998 511.997,230.399 	"/>
+	<path fill="#007FFF" d="M511.997,0H0v383.998L511.997,76.8V0z M124.586,174.079L66.56,218.453l22.187-71.68L30.72,102.399h71.68
+		l22.187-71.68l22.187,71.68h71.68l-58.026,44.374l22.187,71.68L124.586,174.079z"/>
+	<polygon fill="#F7D618" points="511.997,76.8 0,383.998 0,409.599 511.997,102.4 	"/>
+	<polygon fill="#F7D618" points="218.452,102.399 146.773,102.399 124.586,30.72 102.4,102.399 30.72,102.399 88.746,146.773 
+		66.56,218.453 124.586,174.079 182.613,218.453 160.426,146.773 	"/>
+	<polygon fill="#F7D618" points="511.997,204.799 0,511.998 42.666,511.998 511.997,230.399 	"/>
+	<polygon fill="#CE1021" points="511.997,102.4 0,409.599 0,511.998 511.997,204.799 	"/>
+</g>
 </svg>

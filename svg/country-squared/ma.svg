@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3387">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag" stroke-width="1pt" fill-rule="evenodd">
-  <rect id="rect171" height="512" width="512" y=".000015259" x="0" fill="#eb0013"/>
-  <path id="path401" d="m296.81 313.37-133.4 93.29 34.373-105.26 17.854 12.931-12.81 38.45 86.999-62.695 6.9838 23.284zm13.684-60.925 46.566 156.5-87.443-65.253 17.986-12.747 31.118 23.349-32.522-102.72 24.295 0.87444zm-55.199-31.074 163.91 0.19277-89.323 64.423-7.1464-20.854 33.212-22.235-108.35 1.5294 7.7038-23.057zm-46.343 41.839 51.901-156.73 35.721 107.75-22.043 0.27871-13.158-41.272-32.922 104.49-19.5-14.516zm26.599 56.326-132.23-97.057 111.62-0.86282-6.5112 21.059-41.429-0.16723 88.359 62.936-19.809 14.092z" fill="#0b5035"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg378" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g id="flag">
+	<rect id="rect171" x="0" fill="#EB0013" width="512" height="512"/>
+	<path id="path401" fill="#0B5035" d="M296.81,313.37L163.41,406.66l34.373-105.26l17.854,12.931l-12.81,38.45l86.999-62.695
+		L296.81,313.37L296.81,313.37z M310.493,252.445l46.566,156.5l-87.442-65.254l17.985-12.746l31.118,23.349l-32.521-102.72
+		l24.294,0.874V252.445z M255.295,221.371l163.909,0.193l-89.322,64.422l-7.146-20.854l33.212-22.235l-108.35,1.529l7.703-23.057
+		L255.295,221.371z M208.952,263.21l51.9-156.73l35.721,107.75l-22.043,0.279l-13.157-41.272l-32.922,104.49L208.952,263.21
+		L208.952,263.21z M235.551,319.536l-132.23-97.057l111.62-0.863l-6.511,21.059l-41.429-0.167l88.358,62.936L235.551,319.536
+		L235.551,319.536z"/>
+</g>
 </svg>

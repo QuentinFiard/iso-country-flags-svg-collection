@@ -1,157 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
-   viewBox="0 0 5.12 5.12"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="mm.svg">
-  <metadata
-     id="metadata28">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="800"
-     id="namedview26"
-     showgrid="false"
-     inkscape:zoom="1.1289062"
-     inkscape:cx="256"
-     inkscape:cy="256"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <polygon
-       id="pt"
-       points="0.16245985,0 -0.16245985,0 0,-0.5 "
-       transform="scale(8.844,8.844)"
-       style="fill:#ffffff" />
-    <g
-       id="star">
-      <use
-         xlink:href="#pt"
-         transform="matrix(-0.80901699,-0.58778525,0.58778525,-0.80901699,0,0)"
-         id="use8"
-         x="0"
-         y="0"
-         width="18"
-         height="12" />
-      <use
-         xlink:href="#pt"
-         transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,0,0)"
-         id="use10"
-         x="0"
-         y="0"
-         width="18"
-         height="12" />
-      <use
-         xlink:href="#pt"
-         id="use12"
-         x="0"
-         y="0"
-         width="18"
-         height="12" />
-      <use
-         xlink:href="#pt"
-         transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,0,0)"
-         id="use14"
-         x="0"
-         y="0"
-         width="18"
-         height="12" />
-      <use
-         xlink:href="#pt"
-         transform="matrix(-0.80901699,0.58778525,-0.58778525,-0.80901699,0,0)"
-         id="use16"
-         x="0"
-         y="0"
-         width="18"
-         height="12" />
-    </g>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3013">
-      <rect
-         style="stroke:none"
-         id="rect3015"
-         width="16"
-         height="12"
-         x="1"
-         y="-7.1999998" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3042">
-      <rect
-         style="stroke:none"
-         id="rect3044"
-         width="11.999999"
-         height="11.999999"
-         x="2.9921875"
-         y="-7.1999998" />
-    </clipPath>
-  </defs>
-  <g
-     id="flag"
-     transform="matrix(0.42666668,0,0,0.42666668,-1.2766667,3.072)"
-     clip-path="url(#clipPath3042)"
-     inkscape:label="#g3005">
-    <rect
-       style="fill:#fecb00"
-       y="-7.1999998"
-       x="0"
-       id="rect18"
-       height="6"
-       width="18" />
-    <rect
-       style="fill:#ea2839"
-       x="0"
-       id="rect20"
-       y="-1.2"
-       height="6"
-       width="18" />
-    <rect
-       style="fill:#34b233"
-       x="0"
-       id="rect22"
-       y="-3.2"
-       height="4"
-       width="18" />
-    <use
-       transform="translate(0,-7.2)"
-       height="12"
-       width="18"
-       id="use24"
-       y="6.4219999"
-       x="9"
-       xlink:href="#star" />
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" sodipodi:docname="mm.svg" inkscape:version="0.48.4 r9939" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<sodipodi:namedview  inkscape:current-layer="svg2" inkscape:pageopacity="0" inkscape:window-maximized="0" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-width="1280" inkscape:window-height="800" inkscape:pageshadow="2" id="namedview26" pagecolor="#ffffff" gridtolerance="10" guidetolerance="10" objecttolerance="10" inkscape:zoom="1.1289062" inkscape:cy="256" borderopacity="1" inkscape:cx="256" bordercolor="#666666" showgrid="false">
+	</sodipodi:namedview>
+<g>
+	<polygon fill="#FECB00" points="256.333,85.333 284.059,170.667 511.999,170.667 511.999,0 0,0 0,170.667 228.607,170.667 	"/>
+	<polygon fill="#EA2839" points="339.513,341.334 367.232,426.645 256.333,346.072 145.435,426.645 173.154,341.334 0,341.334 
+		0,512 511.999,512 511.999,341.334 	"/>
+	<polygon fill="#34B233" points="298.693,215.703 435.771,215.703 324.872,296.275 339.513,341.334 511.999,341.334 
+		511.999,170.667 284.059,170.667 	"/>
+	<polygon fill="#34B233" points="187.794,296.275 76.896,215.703 213.974,215.703 228.607,170.667 0,170.667 0,341.334 
+		173.154,341.334 	"/>
+	<polygon fill="#FFFFFF" points="206.738,310.039 206.738,310.039 187.794,296.275 173.154,341.334 145.435,426.645 
+		256.333,346.072 	"/>
+	<polygon fill="#FFFFFF" points="256.333,274.006 195.031,274.006 213.974,215.703 76.896,215.703 187.794,296.275 206.738,310.039 
+			"/>
+	<polygon fill="#FFFFFF" points="195.031,274.006 256.333,274.006 256.333,274.006 237.39,215.703 275.277,215.703 298.693,215.703 
+		284.059,170.667 256.333,85.333 228.607,170.667 213.974,215.703 	"/>
+	<polygon fill="#FFFFFF" points="237.39,215.703 256.333,274.006 305.929,237.972 324.872,296.275 435.771,215.703 298.693,215.703 
+		275.277,215.703 	"/>
+	<polygon fill="#FFFFFF" points="305.929,237.972 256.333,274.006 256.333,274.006 206.738,310.039 206.738,310.039 
+		256.333,346.072 367.232,426.645 339.513,341.334 324.872,296.275 	"/>
+</g>
 </svg>

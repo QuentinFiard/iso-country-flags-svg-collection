@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3717">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs550">
-  <clipPath id="clipPath7166" clipPathUnits="userSpaceOnUse">
-   <rect id="rect7168" fill-opacity="0.67" height="496.3" width="496.3" y="-.24064" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" clip-path="url(#clipPath7166)" fill-rule="evenodd" transform="matrix(1.0316 0 0 1.0316 0 .24825)">
-  <rect id="rect558" height="496.3" width="744.09" y="-.24065" x="0" stroke-width="1pt" fill="#ffe300"/>
-  <rect id="rect555" height="99.66" width="744.09" y="201.52" x="0" stroke-width="1pt" fill="#118600"/>
-  <rect id="rect570" height="99.66" width="744.09" y="-0.000061" x="0" stroke-width="1pt" fill="#118600"/>
-  <rect id="rect554" height="301.18" width="297.12" y="-.000114" x="0" stroke-width="1pt" fill="#d80000"/>
-  <path id="path567" d="m130.3 124.25c0-0.83 18.259-51.456 18.259-51.456l16.599 50.626s55.606 1.66 55.606 0.83-43.987 33.198-43.987 33.198 20.748 58.096 19.919 56.436c-0.83-1.66-48.137-34.858-48.137-34.858s-48.136 33.198-47.306 33.198 18.258-54.776 18.258-54.776l-43.156-32.37 53.946-0.83z" fill="#fff"/>
-  <rect id="rect569" height="99.66" width="744.09" y="396.4" x="0" stroke-width="1pt" fill="#118600"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg548" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<polygon fill="#FFE300" points="511.983,310.945 306.509,310.945 0,310.945 0,409.175 511.983,409.175 	"/>
+	<rect x="306.509" y="103.058" fill="#FFE300" width="205.474" height="105.079"/>
+	<polygon fill="#FFE300" points="511.983,0.248 511.983,0 0,0 0,0.248 306.509,0.248 	"/>
+	<rect x="306.509" y="208.136" fill="#118600" width="205.474" height="102.809"/>
+	<rect x="306.509" y="0.248" fill="#118600" width="205.474" height="102.81"/>
+	<path fill="#D80000" d="M306.509,208.136V103.058V0.248H0v102.81v105.079v102.809h306.509V208.136z M202.911,220.891
+		c-0.856-1.712-49.658-35.959-49.658-35.959s-46,31.725-48.682,34.101c-0.053,0.093-0.094,0.146-0.119,0.146
+		c-0.032,0,0.015-0.054,0.119-0.146c1.772-3.107,18.716-56.361,18.716-56.361l-44.52-33.393l55.65-0.856
+		c0.019-0.906,18.835-53.08,18.835-53.08l17.124,52.226c0,0,53.131,1.586,57.118,0.942c0.157-0.088,0.246-0.122,0.246-0.085
+		c0,0.032-0.09,0.06-0.246,0.085c-3.539,1.986-45.131,34.162-45.131,34.162S203.767,222.604,202.911,220.891z"/>
+	<path fill="#FFFFFF" d="M227.495,128.51c0.156-0.025,0.246-0.053,0.246-0.085C227.74,128.388,227.652,128.422,227.495,128.51z"/>
+	<path fill="#FFFFFF" d="M182.364,162.672c0,0,41.593-32.176,45.131-34.162c-3.987,0.644-57.118-0.942-57.118-0.942l-17.124-52.226
+		c0,0-18.817,52.173-18.835,53.08l-55.65,0.856l44.52,33.393c0,0-16.943,53.253-18.716,56.361
+		c2.682-2.376,48.682-34.101,48.682-34.101s48.802,34.247,49.658,35.959C203.767,222.604,182.364,162.672,182.364,162.672z"/>
+	<path fill="#FFFFFF" d="M104.452,219.179c0.025,0,0.066-0.053,0.119-0.146C104.467,219.125,104.42,219.179,104.452,219.179z"/>
+	<rect x="0" y="409.175" fill="#118600" width="511.982" height="102.809"/>
+</g>
 </svg>

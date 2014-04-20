@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg986" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3160">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs988">
-  <clipPath id="clipPath3257" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3259" fill-opacity="0.67" height="496.06" width="496.06" y="-.000011476" x="244.16"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath3257)" transform="matrix(1.0321 0 0 1.0321 -252 .000011844)" stroke-width="1pt">
-  <rect id="rect1390" height="496.06" width="992.13" y="-.000015260" x="0" fill="#6797d6"/>
-  <polygon id="polygon1351" transform="matrix(.54883 0 0 .51651 202.91 -83.045)" points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" fill="#fff"/>
-  <polygon id="polygon1387" transform="matrix(.54883 0 0 -.51651 202.91 580.11)" points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" fill="#fff"/>
-  <polygon id="polygon1388" transform="matrix(.52485 -.16046 .15101 .49394 5.4986 159.08)" points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" fill="#fff"/>
-  <polygon id="polygon1389" transform="matrix(-.52485 -.16046 -.15101 .49394 986.13 159.08)" points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg986" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<path fill="#6797D6" d="M-0.003,0v511.983h511.983V0H-0.003z M141.351,287.127l-37.519-11.764l-24.528,30.728l1.395-37.965
+		l-37.539-11.713l38.379-11.694l1.324-37.965l22.326,30.734l38.361-11.755l-24.581,30.693L141.351,287.127z M272.147,425.861
+		l-12.365,35.919l-12.365-35.919l-40.122,0.037l32.475-22.177l-12.434-35.897l32.44,22.213l32.44-22.219l-12.428,35.903
+		l32.48,22.166L272.147,425.861z M279.788,109.299l12.428,35.904l-32.44-22.219l-32.44,22.214l12.434-35.898l-32.475-22.177
+		l40.122,0.038l12.365-35.919l12.365,35.919l40.122-0.027L279.788,109.299z M440.156,306.091l-24.528-30.728l-37.519,11.764
+		l22.382-30.701l-24.581-30.693l38.361,11.755l22.326-30.734l1.324,37.965l38.379,11.694l-37.539,11.713L440.156,306.091z"/>
+	<polygon fill="#FFFFFF" points="259.781,51.24 247.416,87.16 207.294,87.122 239.769,109.299 227.335,145.197 259.776,122.983 
+		292.216,145.203 279.788,109.299 312.269,87.133 272.147,87.16 	"/>
+	<polygon fill="#FFFFFF" points="292.216,367.818 259.776,390.037 227.335,367.824 239.769,403.722 207.294,425.898 
+		247.416,425.861 259.781,461.78 272.147,425.861 312.269,425.888 279.788,403.722 	"/>
+	<polygon fill="#FFFFFF" points="105.189,237.488 82.863,206.753 81.538,244.719 43.159,256.413 80.698,268.126 79.304,306.091 
+		103.832,275.363 141.351,287.127 118.969,256.426 143.55,225.732 	"/>
+	<polygon fill="#FFFFFF" points="437.921,244.719 436.597,206.753 414.271,237.488 375.909,225.732 400.49,256.426 378.109,287.127 
+		415.627,275.363 440.156,306.091 438.761,268.126 476.3,256.413 	"/>
+</g>
 </svg>

@@ -1,23 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3573">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath5702" clipPathUnits="userSpaceOnUse">
-   <rect id="rect5704" fill-opacity="0.67" height="512" width="512" y="0" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath5702)">
-  <rect id="rect171" height="327.84" width="375.7" y="-60.328" x="159.45" stroke-width="1pt" fill="#fff41e"/>
-  <rect id="rect256" height="253.07" width="304.68" y="258.67" x="207.32" stroke-width="1pt" fill="#1f7848"/>
-  <rect id="rect255" height="512" width="207.32" y="-.0000011031" x="0" stroke-width="1pt" fill="#e80006"/>
-  <path id="path349" stroke-width=".11287" d="m160.61 325.58-55.86-39.888-55.587 40.28 20.674-65.457-55.485-40.419 68.645-0.56354 21.291-65.258 21.747 65.108 68.645 0.0859-55.2 40.8 21.13 65.312z"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg378" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<rect x="207.32" fill="#FFF41E" width="304.681" height="258.67"/>
+	<rect x="207.32" y="258.67" fill="#1F7848" width="304.681" height="253.07"/>
+	<path fill="#E80006" d="M207.32,258.67V0H0v512H207.32v-0.26V258.67z M104.75,285.691l-55.587,40.281l20.674-65.457l-55.485-40.419
+		l68.646-0.564l21.291-65.258l21.747,65.108l68.645,0.086l-55.2,40.8l21.13,65.312L104.75,285.691z"/>
+	<polygon points="194.68,219.468 126.035,219.382 104.288,154.274 82.997,219.532 14.352,220.096 69.837,260.516 49.163,325.973 
+		104.75,285.691 160.61,325.58 139.48,260.269 	"/>
+</g>
 </svg>

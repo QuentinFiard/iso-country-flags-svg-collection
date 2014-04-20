@@ -1,31 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3834">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath3061" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3063" fill-opacity="0.67" height="512" width="512" y="0" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath3061)">
-  <rect id="rect149" transform="scale(-1)" height="512" width="731.43" y="-512" x="-619.43" fill="#fff"/>
-  <rect id="rect585" transform="scale(-1)" height="67.227" width="731.43" y="-115.23" x="-619.43" fill="#00c"/>
-  <rect id="rect688" transform="scale(-1)" height="67.227" width="731.43" y="-465.68" x="-619.43" fill="#00c"/>
-  <path id="path706" d="m136.43 190.78 110.12 191.54 112.49-190.75-222.61-0.79z" stroke-width=".96961pt" fill="#00c"/>
-  <path id="path704" d="m225.75 317.81 20.95 35.506 21.4-35.36-42.351-0.14535z" stroke-width=".96961pt" fill="#fff"/>
-  <path id="path707" d="m136.02 320.58 110.13-191.54 112.48 190.75-222.61 0.79z" stroke-width=".96961pt" fill="#00c"/>
-  <path id="path708" d="m225.75 191.61 20.95-35.506 21.4 35.36-42.351 0.14534z" stroke-width=".96961pt" fill="#fff"/>
-  <path id="path709" d="m181.97 271.11-21.64 35.982 40.899-0.12727-19.258-35.855z" stroke-width=".96961pt" fill="#fff"/>
-  <path id="path710" d="m160.7 204.61 41.225 0.28926-19.834 36.262-21.391-36.551z" stroke-width=".96961pt" fill="#fff"/>
-  <path id="path711" d="m311.94 271.52 20.829 35.576-41.71-0.53294 20.881-35.043z" stroke-width=".96961pt" fill="#fff"/>
-  <path id="path712" d="m332.39 204.61-41.225 0.28926 19.834 36.262 21.391-36.551z" stroke-width=".96961pt" fill="#fff"/>
-  <path id="path716" d="m218.12 204.57-28.394 51.515 28.799 50.297 52.731 1.217 32.044-51.514-29.611-51.92-55.571 0.40495z" stroke-width="1pt" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg378" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<rect x="0" fill="#FFFFFF" width="512" height="48.003"/>
+	<rect x="0" y="465.68" fill="#FFFFFF" width="512" height="46.32"/>
+	<path fill="#FFFFFF" d="M512,115.23H0v283.223h512V115.23z M246.55,382.32l-35.648-62.006l-74.882,0.266l37.519-65.254
+		L136.43,190.78h0v0l0,0l74.069,0.263l35.65-62.003l36.713,62.26l76.177,0.27l-38.01,64.455l37.601,63.766l-75.362,0.268
+		L246.55,382.32z"/>
+	<rect x="0" y="48.003" fill="#0000CC" width="512" height="67.227"/>
+	<rect x="0" y="398.453" fill="#0000CC" width="512" height="67.227"/>
+	<polygon fill="#0000CC" points="160.7,204.61 160.7,204.61 201.925,204.899 190.055,226.601 210.5,191.043 136.43,190.78 
+		173.539,255.326 181.885,240.81 	"/>
+	<polygon fill="#0000CC" points="246.7,353.316 227.194,320.257 210.902,320.314 246.55,382.32 283.268,320.058 266.793,320.116 	
+		"/>
+	<polygon fill="#0000CC" points="291.165,204.899 332.39,204.61 332.39,204.61 311.629,240.083 321.03,256.024 359.039,191.57 
+		282.863,191.3 294.79,211.528 	"/>
+	<polygon fill="#0000CC" points="136.43,190.78 136.43,190.78 136.43,190.78 	"/>
+	<polygon fill="#FFFFFF" points="266.793,320.116 227.194,320.257 246.7,353.316 	"/>
+	<path fill="#0000CC" d="M321.03,256.024l-9.4-15.941l-0.631,1.078l-16.208-29.633L282.863,191.3l-36.713-62.26l-35.65,62.003
+		l-20.445,35.558l-7.964,14.561l-0.206-0.352l-8.347,14.517L136.02,320.58l74.882-0.266l16.292-0.058l39.6-0.141l16.475-0.059
+		l75.362-0.268L321.03,256.024z M160.33,307.092l21.64-35.982h0.001l19.258,35.855L160.33,307.092z M246.7,156.104l21.399,35.36
+		l-42.349,0.146l0,0l-0.001,0h0.001L246.7,156.104z M218.525,306.382l-28.799-50.297l28.395-51.515h-0.002l55.57-0.405l29.611,51.92
+		L271.256,307.6L218.525,306.382z M291.059,306.562l20.881-35.043l20.829,35.576L291.059,306.562z"/>
+	<polygon fill="#FFFFFF" points="225.75,191.61 225.751,191.609 225.749,191.609 	"/>
+	<polygon fill="#FFFFFF" points="268.1,191.464 246.7,156.104 225.751,191.609 	"/>
+	<polygon fill="#FFFFFF" points="181.97,271.109 160.33,307.092 201.229,306.965 181.971,271.109 	"/>
+	<polygon fill="#FFFFFF" points="160.7,204.61 160.7,204.61 181.885,240.81 182.091,241.161 190.055,226.601 201.925,204.899 	"/>
+	<polygon fill="#FFFFFF" points="311.94,271.52 291.059,306.562 332.769,307.096 	"/>
+	<polygon fill="#FFFFFF" points="332.39,204.61 291.165,204.899 294.79,211.528 310.998,241.161 311.629,240.083 332.39,204.61 	"/>
+	<polygon fill="#FFFFFF" points="273.689,204.165 218.118,204.57 218.12,204.57 189.726,256.085 218.525,306.382 271.256,307.6 
+		303.3,256.085 	"/>
+</g>
 </svg>

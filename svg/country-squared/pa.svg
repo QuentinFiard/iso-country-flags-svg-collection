@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg1646" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3564">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs1648">
-  <clipPath id="clipPath10940" clipPathUnits="userSpaceOnUse">
-   <rect id="rect10942" fill-opacity="0.67" height="512" width="512" y="0" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath10940)">
-  <rect id="rect555" height="595.94" width="592.45" y="-24.954" x="-26.003" stroke-width="1pt" fill="#fff"/>
-  <rect id="rect1649" height="275.22" width="312.09" y="-20.417" x="255.34" stroke-width="1pt" fill="#db0000"/>
-  <rect id="rect1650" height="316.17" width="309.82" y="254.81" x="-54.446" stroke-width="1pt" fill="#0000ab"/>
-  <path id="path205" d="m178.98 181.59-46.477-29.211-46.249 29.498 17.201-47.936-46.164-29.6 57.113-0.41269 17.715-47.79 18.094 47.68 57.113 0.0629-45.927 29.879 17.581 47.83z" stroke-width=".11287" fill="#0000ab"/>
-  <path id="path1660" d="m435.24 449.04-46.477-29.211-46.249 29.498 17.201-47.936-46.164-29.6 57.113-0.4127 17.715-47.79 18.094 47.68 57.113 0.0629-45.927 29.879 17.581 47.83z" stroke-width=".11287" fill="#d80000"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg1646" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<path fill="#FFFFFF" d="M255.34,254.803V0H0v254.81h255.374V512H512V254.803H255.34z M178.98,181.59L178.98,181.59L178.98,181.59
+		l-46.477-29.211l-46.249,29.498l17.201-47.936l-46.164-29.6l57.112-0.413l17.716-47.79l18.094,47.68l57.113,0.063l-45.928,29.879
+		L178.98,181.59L178.98,181.59z M435.24,449.04l-46.477-29.211l-46.249,29.498l17.201-47.937l-46.164-29.6l57.112-0.412
+		l17.716-47.791l18.094,47.68l57.113,0.063l-45.928,29.879L435.24,449.04z"/>
+	<rect x="255.34" fill="#DB0000" width="256.66" height="254.803"/>
+	<rect x="0" y="254.81" fill="#0000AB" width="255.374" height="257.19"/>
+	<polygon fill="#0000AB" points="178.98,181.59 178.98,181.59 178.98,181.59 	"/>
+	<polygon fill="#0000AB" points="207.326,103.881 150.213,103.818 132.119,56.138 114.404,103.928 57.291,104.341 103.455,133.941 
+		86.254,181.877 132.503,152.379 178.98,181.59 161.399,133.76 	"/>
+	<polygon fill="#D80000" points="406.473,371.268 388.379,323.588 370.663,371.379 313.551,371.791 359.715,401.391 
+		342.514,449.327 388.763,419.829 435.24,449.04 417.658,401.21 463.586,371.331 	"/>
+</g>
 </svg>

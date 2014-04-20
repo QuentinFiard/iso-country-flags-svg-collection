@@ -1,22 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata2993">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs550">
-  <clipPath id="clipPath58463" clipPathUnits="userSpaceOnUse">
-   <rect id="rect58465" fill-opacity="0.67" height="496.06" width="496.06" y="-.000026733" x="62.008"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath58463)" transform="matrix(1.0321 0 0 1.0321 -64 .000027592)" stroke-width="1pt">
-  <rect id="rect551" transform="translate(0 -.000030518)" height="496.06" width="655.51" y="0" x="0" fill="#fb1b22"/>
-  <rect id="rect552" transform="translate(0 -.000030518)" height="70.866" width="655.51" y="212.6" x="0" fill="#fff"/>
-  <rect id="rect553" transform="translate(0 -.000030518)" height="496.06" width="70.866" y="0" x="212.6" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg548" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<rect x="-0.002" fill="#FB1B22" width="155.426" height="219.424"/>
+	<rect x="228.566" fill="#FB1B22" width="283.416" height="219.424"/>
+	<rect x="228.566" y="292.565" fill="#FB1B22" width="283.416" height="219.418"/>
+	<rect x="-0.002" y="292.565" fill="#FB1B22" width="155.426" height="219.418"/>
+	<rect x="228.566" y="219.424" fill="#FFFFFF" width="283.416" height="73.141"/>
+	<rect x="-0.002" y="219.424" fill="#FFFFFF" width="155.426" height="73.141"/>
+	<polygon fill="#FFFFFF" points="228.566,219.424 228.566,0 155.424,0 155.424,219.424 155.424,292.565 155.424,511.983 
+		228.566,511.983 228.566,292.565 	"/>
+</g>
 </svg>

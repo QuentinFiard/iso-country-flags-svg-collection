@@ -1,29 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg665" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3336">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs667">
-  <clipPath id="clipPath3051" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3053" fill-opacity="0.67" height="512" width="512" y="0" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath3051)">
-  <rect id="rect560" height="511.92" width="767.87" y=".083530" x=".000014447" stroke-width="1pt" fill="#fff"/>
-  <rect id="rect668" height="232.75" width="232.74" y="-9.5483e-7" x="-3.5028e-14" stroke-width="1pt" fill="#006"/>
-  <rect id="rect669" height="47.127" width="767.89" y="464.87" x=".000014447" stroke-width="1pt" fill="#c00"/>
-  <rect id="rect670" height="46.574" width="767.89" y="465.43" x=".000014447" stroke-width="1pt" fill="#c00"/>
-  <rect id="rect672" height="46.21" width="767.89" y="372.52" x="0" stroke-width="1pt" fill="#c00"/>
-  <rect id="rect673" height="46.7" width="765.96" y="279.26" x="0" stroke-width="1pt" fill="#c00"/>
-  <rect id="rect675" height="46.494" width="535.17" y=".055372" x="232.67" stroke-width="1pt" fill="#c00"/>
-  <rect id="rect676" height="46.796" width="535.17" y="186.06" x="232.67" stroke-width="1pt" fill="#c00"/>
-  <rect id="rect677" height="46.494" width="535.17" y="93.361" x="232.67" stroke-width="1pt" fill="#c00"/>
-  <path id="path205" d="m166.35 177.47-50.71-30.98-50.465 31.29 18.769-50.85-50.373-31.394 62.321-0.438 19.328-50.691l19.744 50.574 62.321 0.0667-50.115 31.693 19.184 50.732z" stroke-width=".11287" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg665" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<rect x="0" y="325.96" fill="#FFFFFF" width="512" height="46.56"/>
+	<rect x="0" y="418.73" fill="#FFFFFF" width="512" height="46.14"/>
+	<rect x="232.74" y="46.549" fill="#FFFFFF" width="279.26" height="46.812"/>
+	<polygon fill="#FFFFFF" points="512,232.856 232.67,232.856 232.67,232.75 0,232.75 0,279.26 512,279.26 	"/>
+	<rect x="232.74" y="139.855" fill="#FFFFFF" width="279.26" height="46.205"/>
+	<path fill="#000066" d="M232.67,186.06h0.07v-46.205h-0.07V93.361h0.07V46.549h-0.07V0.055h0.07V0H0v0.083V232.75h232.67V186.06z
+		 M166.35,177.47l-50.71-30.98l-50.465,31.29l18.769-50.85L33.571,95.536l62.321-0.438l19.328-50.691l19.744,50.574l62.321,0.067
+		l-50.115,31.693l19.184,50.732L166.35,177.47z"/>
+	<rect x="0" y="464.87" fill="#CC0000" width="512" height="0.56"/>
+	<polygon fill="#CC0000" points="512,465.43 0,465.43 0,511.997 0,512 512,512 	"/>
+	<rect x="0" y="372.52" fill="#CC0000" width="512" height="46.211"/>
+	<rect x="0" y="279.26" fill="#CC0000" width="512" height="46.7"/>
+	<polygon fill="#CC0000" points="232.67,46.549 232.74,46.549 512,46.549 512,0.055 232.74,0.055 232.67,0.055 	"/>
+	<polygon fill="#CC0000" points="232.67,186.06 232.67,232.75 232.67,232.856 512,232.856 512,186.06 232.74,186.06 	"/>
+	<polygon fill="#CC0000" points="232.67,93.361 232.67,139.855 232.74,139.855 512,139.855 512,93.361 232.74,93.361 	"/>
+	<polygon fill="#FFFFFF" points="197.285,95.048 134.964,94.981 115.22,44.407 95.892,95.098 33.571,95.536 83.944,126.93 
+		65.175,177.78 115.64,146.49 166.35,177.47 166.354,177.473 147.17,126.741 	"/>
+</g>
 </svg>

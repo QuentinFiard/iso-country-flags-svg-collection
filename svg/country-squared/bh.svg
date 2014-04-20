@@ -1,21 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3016">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath3054" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3056" height="708.66" width="708.66" y="-196.66" x="119.03" fill="#808080"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath3054)" transform="matrix(.72249 0 0 .72249 -86 142.09)" stroke-width="1pt">
-  <rect id="rect171" height="708.66" width="1063" y="-196.66" x="0" fill="#e10011"/>
-  <path id="path193" d="m216.66 511.66-216.66 0.34v-708.66l215.64 0.11276 139.14 44.743-138.12 43.614 138.12 44.968-138.12 43.615 138.12 44.968-138.12 43.614 138.12 44.968-138.12 43.615 138.12 44.969-138.12 43.614 138.12 44.969-138.12 43.614 138.12 44.968-138.12 43.615 138.12 44.968-138.12 43.615" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg378" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<polygon fill="#E10011" points="-0.002,0.005 -0.002,0.05 69.798,0.086 170.325,32.413 70.534,63.924 170.325,96.413 
+		70.534,127.924 170.325,160.413 70.534,191.924 170.325,224.413 70.534,255.924 170.325,288.414 70.534,319.924 170.325,352.414 
+		70.534,383.925 170.325,416.413 70.534,447.925 170.325,480.414 70.534,511.925 70.534,511.759 -0.002,511.87 -0.002,512.005 
+		511.997,512.005 511.997,0.005 	"/>
+	<polygon fill="#FFFFFF" points="70.534,511.925 170.325,480.414 70.534,447.925 170.325,416.413 70.534,383.925 170.325,352.414 
+		70.534,319.924 170.325,288.414 70.534,255.924 170.325,224.413 70.534,191.924 170.325,160.413 70.534,127.924 170.325,96.413 
+		70.534,63.924 170.325,32.413 69.798,0.086 -0.002,0.05 -0.002,511.87 70.534,511.759 	"/>
+</g>
 </svg>

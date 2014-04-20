@@ -1,18 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata2993">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag">
-  <rect id="rect557" fill-rule="evenodd" height="512" width="170.67" y=".000039684" x="341.33" stroke-width="1pt" fill="#fff001"/>
-  <rect id="rect558" fill-rule="evenodd" height="512" width="169.61" y=".000012443" x="-1.2356e-8" stroke-width="1pt" fill="#009811"/>
-  <rect id="rect559" fill-rule="evenodd" height="512" width="172.79" y="6.1508e-8" x="169.61" stroke-width="1pt" fill="#c20000"/>
-  <path id="path3872" d="m308.99 327.55-46.899-35.456-51.387 36.542 19.528-60.826-53.25-36.098 63.956-1.1152 16.813-59.148 19.981 59.393 62.655-0.84038-52.363 38.53z" fill="#fff001"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg548" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g id="flag">
+	<rect id="rect557" x="341.329" fill="#FFF001" width="170.671" height="512"/>
+	<rect id="rect558" x="0" fill="#009811" width="169.609" height="512"/>
+	<rect id="rect559" x="169.61" fill="#C20000" width="172.79" height="512"/>
+	<path id="path3872" fill="#FFF001" d="M308.99,327.55l-46.898-35.456l-51.387,36.542l19.527-60.825l-53.25-36.099l63.956-1.115
+		l16.813-59.148l19.98,59.393l62.655-0.84l-52.363,38.53L308.99,327.55z"/>
+</g>
 </svg>
